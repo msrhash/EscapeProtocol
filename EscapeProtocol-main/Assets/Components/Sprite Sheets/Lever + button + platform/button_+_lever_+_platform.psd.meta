@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: f1548f6726e63764e87ed4a19463b092
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3617350963877663551
+    second: button_+_lever_+_platform_0
+  - first:
+      213: -7085613310190295199
+    second: button_+_lever_+_platform_1
+  - first:
+      213: -8544992847868148457
+    second: button_+_lever_+_platform_2
+  - first:
+      213: -2864876929838302132
+    second: button_+_lever_+_platform_3
+  - first:
+      213: 8150064007810488500
+    second: button_+_lever_+_platform_4
+  - first:
+      213: 1106950500339386599
+    second: button_+_lever_+_platform_5
+  - first:
+      213: -5941482967215284014
+    second: button_+_lever_+_platform_6
+  - first:
+      213: 8072409862052946037
+    second: button_+_lever_+_platform_7
+  - first:
+      213: -773426384788610094
+    second: button_+_lever_+_platform_8
+  - first:
+      213: -2335133917791359093
+    second: button_+_lever_+_platform_9
+  - first:
+      213: 8216108463672027326
+    second: button_+_lever_+_platform_10
+  - first:
+      213: -8489227985202173322
+    second: button_+_lever_+_platform_11
+  - first:
+      213: 3122832191416494747
+    second: button_+_lever_+_platform_12
+  - first:
+      213: 4648457355636755835
+    second: button_+_lever_+_platform_13
+  - first:
+      213: -5827833438299350503
+    second: button_+_lever_+_platform_14
+  - first:
+      213: 659799495892653422
+    second: button_+_lever_+_platform_15
+  - first:
+      213: 183521374053338342
+    second: button_+_lever_+_platform_16
+  - first:
+      213: -4682178094897533229
+    second: button_+_lever_+_platform_17
+  - first:
+      213: -1373593623434083907
+    second: button_+_lever_+_platform_18
+  - first:
+      213: 756469149457367694
+    second: button_+_lever_+_platform_19
+  - first:
+      213: 1262553391343487957
+    second: button_+_lever_+_platform_20
+  - first:
+      213: -796262160006358666
+    second: button_+_lever_+_platform_21
+  - first:
+      213: -338315323168474751
+    second: button_+_lever_+_platform_22
+  - first:
+      213: 8665492004046528023
+    second: button_+_lever_+_platform_23
+  - first:
+      213: -1234607874526540747
+    second: button_+_lever_+_platform_24
+  - first:
+      213: 2846542799851869400
+    second: button_+_lever_+_platform_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_0
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 908
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3358dd3989633230800000000000000
+      internalID: 3617350963877663551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 914
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167e35e4c38daad90800000000000000
+      internalID: -7085613310190295199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 917
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715c09637461a6980800000000000000
+      internalID: -8544992847868148457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_3
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 979
+        width: 107
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cb6cf6c99ed38d0800000000000000
+      internalID: -2864876929838302132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 908
+        width: 108
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b89d32c808da1170800000000000000
+      internalID: 8150064007810488500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 672
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e88bac7d9dac5f00800000000000000
+      internalID: 1106950500339386599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 678
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0691c78bc9b8da0800000000000000
+      internalID: -5941482967215284014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_7
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 674
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570a6050006f60070800000000000000
+      internalID: 8072409862052946037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_8
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 746
+        width: 107
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3a2c20dcc3445f0800000000000000
+      internalID: -773426384788610094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_9
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 674
+        width: 196
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f6417e210f79fd0800000000000000
+      internalID: -2335133917791359093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_10
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 676
+        width: 195
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8604ded1b750270800000000000000
+      internalID: 8216108463672027326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_11
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 678
+        width: 108
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a28b41024303a80800000000000000
+      internalID: -8489227985202173322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 429
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae8862557865b20800000000000000
+      internalID: 3122832191416494747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 433
+        width: 159
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dc74c1653a28040800000000000000
+      internalID: 4648457355636755835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 428
+        width: 158
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a16047d506f1fa0800000000000000
+      internalID: -5827833438299350503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_15
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 499
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d9af4524182900800000000000000
+      internalID: 659799495892653422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 424
+        width: 195
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec0425a7bffb8200800000000000000
+      internalID: 183521374053338342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_17
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 426
+        width: 195
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de648674df850fb0800000000000000
+      internalID: -4682178094897533229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_18
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 431
+        width: 107
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1487980e300fce0800000000000000
+      internalID: -1373593623434083907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 167
+        width: 158
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c2f8fea48f7a00800000000000000
+      internalID: 756469149457367694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 164
+        width: 159
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db4ef0ce9d758110800000000000000
+      internalID: 1262553391343487957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_21
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 166
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6795cb4c8cb13f4f0800000000000000
+      internalID: -796262160006358666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_22
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 234
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189b87c81001e4bf0800000000000000
+      internalID: -338315323168474751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_23
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 165
+        width: 195
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e5e21e013024870800000000000000
+      internalID: 8665492004046528023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_24
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 167
+        width: 195
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c02f9edaacddee0800000000000000
+      internalID: -1234607874526540747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_+_lever_+_platform_25
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 166
+        width: 107
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4dd174893f08720800000000000000
+      internalID: 2846542799851869400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      button_+_lever_+_platform_0: 3617350963877663551
+      button_+_lever_+_platform_1: -7085613310190295199
+      button_+_lever_+_platform_10: 8216108463672027326
+      button_+_lever_+_platform_11: -8489227985202173322
+      button_+_lever_+_platform_12: 3122832191416494747
+      button_+_lever_+_platform_13: 4648457355636755835
+      button_+_lever_+_platform_14: -5827833438299350503
+      button_+_lever_+_platform_15: 659799495892653422
+      button_+_lever_+_platform_16: 183521374053338342
+      button_+_lever_+_platform_17: -4682178094897533229
+      button_+_lever_+_platform_18: -1373593623434083907
+      button_+_lever_+_platform_19: 756469149457367694
+      button_+_lever_+_platform_2: -8544992847868148457
+      button_+_lever_+_platform_20: 1262553391343487957
+      button_+_lever_+_platform_21: -796262160006358666
+      button_+_lever_+_platform_22: -338315323168474751
+      button_+_lever_+_platform_23: 8665492004046528023
+      button_+_lever_+_platform_24: -1234607874526540747
+      button_+_lever_+_platform_25: 2846542799851869400
+      button_+_lever_+_platform_3: -2864876929838302132
+      button_+_lever_+_platform_4: 8150064007810488500
+      button_+_lever_+_platform_5: 1106950500339386599
+      button_+_lever_+_platform_6: -5941482967215284014
+      button_+_lever_+_platform_7: 8072409862052946037
+      button_+_lever_+_platform_8: -773426384788610094
+      button_+_lever_+_platform_9: -2335133917791359093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
